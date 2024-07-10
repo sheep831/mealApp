@@ -55,16 +55,6 @@ const availableCategories = [
     title: 'Summer',
     color: Colors.teal,
   ),
-  Category(
-    id: 'c11',
-    title: 'Why',
-    color: Colors.teal,
-  ),
-  Category(
-    id: 'c12',
-    title: 'Fuck',
-    color: Colors.teal,
-  ),
 ];
 
 const dummyMeals = [
